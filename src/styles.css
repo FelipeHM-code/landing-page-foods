@@ -59,3 +59,11 @@ section {
     height: 42px;
 }
 
+.section-title {
+    color: #e9a209;
+    font-size: 1.563rem;
+}
+
+.section_subtitle {
+    font-size: 4.1875rem;
+}
